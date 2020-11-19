@@ -93,6 +93,7 @@
                     new IdPaese { Nome = "Ghana", Codice = "GH" },
                     new IdPaese { Nome = "Gibilterra", Codice = "GI" },
                     new IdPaese { Nome = "Grecia", Codice = "GR" },
+                    new IdPaese { Nome = "Grecia (Ellas)", Codice = "EL" },
                     new IdPaese { Nome = "Groenlandia", Codice = "GL" },
                     new IdPaese { Nome = "Grenada", Codice = "GD" },
                     new IdPaese { Nome = "Guadalupa", Codice = "GP" },
